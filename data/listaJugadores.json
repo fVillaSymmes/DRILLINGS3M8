@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "nombre": "Elías Figueroa",
+    "posicion": "Central"
+  },
+  {
+    "id": "2",
+    "nombre": "Ben Brereton Díaz",
+    "posicion": "Delantero"
+  },
+  {
+    "id": "3",
+    "nombre": "Arturo Vidal",
+    "posicion": "Mediocampista"
+  }
+]
